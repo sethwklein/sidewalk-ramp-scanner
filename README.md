@@ -51,6 +51,6 @@ We have ramp data from the city in `ramps-data/Ramps.gdb.zip`. Using
 it is #2 which might benefit from #1.
 
 If you need help figuring out how to make pull requests, the [Code for Maine
-Slack]() is a great place to ask, as are any of the [Hack Portland
-Meetups](https://www.meetup.com/Hack-Portland), but especially the civic
-themed one on the second Tuesday of every month.
+Slack](https://codeformaine.signup.team/) is a great place to ask, as are
+any of the [Hack Portland Meetups](https://www.meetup.com/Hack-Portland),
+but especially the civic themed one on the second Tuesday of every month.
